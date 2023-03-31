@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shubo4
 - 👀 I’m interested in perceiving the environment using computer vision and traning models by learning through mistakes
-- 🌱 I’m currently learning Reinforcement learning,deep learning, computer vision
-- 💞️ I’m looking to collaborate on simulations and models using reinforcement learning or/and deep learning 
+- 🌱 I’m currently working on incremental Learning. Prior I have worked on reinforcement Learning(safe RL).
 - 📫 You can reach me thorugh linkedin . My linkeddin id is : shubham latpate 
 
 <!---
