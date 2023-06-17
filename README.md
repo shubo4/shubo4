@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shubham</h1>
 <h3 align="center">I'm a learner of concepts in Deep learning and computer vision.</h3>
 
-<img align="right" alt="Coding" width="400" src= “https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">)
+<img align="right" alt="Coding" width="400" src= <“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubo4&label=Profile%20views&color=0e75b6&style=flat" alt="shubo4" /> </p>
 
