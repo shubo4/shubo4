@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubhamlatpatesl55@gmail.com**
 
-- ⚡ Lazy fact **I'm sleepy**
+- ⚡  fact **I'm sleepy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
