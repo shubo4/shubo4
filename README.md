@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shubham</h1>
-<h3 align="center">I'm a learner of concepts in Deep learning and computer vision.</h3>
+<h3 align="center">Learning to Tweak params to acheive params*.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
